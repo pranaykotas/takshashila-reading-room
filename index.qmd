@@ -1,0 +1,15 @@
+---
+title: "Reading Room"
+listing:
+  contents: readings
+  sort: "date desc"
+  type: grid
+  fields: [date, title, author, submitted_by, tags, description]
+  field-display-names:
+    submitted_by: "Shared by"
+    description: "Takeaways"
+  filter-ui: true
+  sort-ui: true
+---
+
+Books, papers, and articles the Takshashila team has read — with key takeaways.

@@ -1,0 +1,12 @@
+---
+title: "By Tag"
+listing:
+  contents: readings
+  sort: "date desc"
+  type: table
+  fields: [date, title, author, submitted_by, tags]
+  field-display-names:
+    submitted_by: "Shared by"
+  filter-ui: true
+  group-by: categories
+---

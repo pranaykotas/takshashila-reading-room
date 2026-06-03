@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Reading Room"
+  description: "What the Takshashila team is reading"
+  navbar:
+    left:
+      - href: index.qmd
+        text: All Readings
+      - href: by-person.qmd
+        text: By Person
+      - href: by-tag.qmd
+        text: By Tag
+  page-footer:
+    left: "Takshashila Institution Reading Room"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

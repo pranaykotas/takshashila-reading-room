@@ -1,0 +1,12 @@
+---
+title: "By Person"
+listing:
+  contents: readings
+  sort: [submitted_by, "date desc"]
+  type: table
+  fields: [submitted_by, date, title, author, tags]
+  field-display-names:
+    submitted_by: "Shared by"
+  filter-ui: true
+  group-by: submitted_by
+---

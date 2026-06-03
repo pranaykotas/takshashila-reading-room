@@ -1,0 +1,20 @@
+---
+title: "Chip War"
+author: "Chris Miller"
+submitted_by: "Pranay"
+date: 2026-06-03
+categories: [semiconductors, geopolitics, technology-policy]
+description: |
+  US semiconductor dominance is more fragile than it looks. TSMC's Taiwan location is simultaneously a strategic asset and liability. Export controls accelerate rival programs more than they impede them.
+rating: 5
+---
+
+## Takeaways
+
+- US dominance in semiconductors is more fragile than it appears
+- TSMC's location in Taiwan is simultaneously a strategic asset and liability
+- Export controls accelerate rival domestic semiconductor programs
+
+## Why read this
+
+Essential background for anyone working on technology geopolitics. Miller traces how semiconductor supply chains became the central nervous system of modern geopolitics.

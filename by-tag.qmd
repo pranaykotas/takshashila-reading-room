@@ -8,5 +8,4 @@ listing:
   field-display-names:
     submitted_by: "Shared by"
   filter-ui: true
-  group-by: categories
 ---
